@@ -1,0 +1,7 @@
+#1 OSDEV
+http://wiki.osdev.org/Raspberry_Pi_Bare_Bones
+http://wiki.osdev.org/ARM_RaspberryPi
+http://wiki.osdev.org/ELF
+http://wiki.osdev.org/Books
+
+
